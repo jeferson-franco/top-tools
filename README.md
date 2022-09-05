@@ -4,6 +4,8 @@
 
 - [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - generate a smart commit message based on file changes
 
+- [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - mark lines and jump to them
+
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 
 - [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - make indentation more readable
