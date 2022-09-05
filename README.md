@@ -18,13 +18,13 @@
 
 ### CHROME EXTENSIONS
 
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) - an efficient blocker
-
 - [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Fastest Way to Copy Text from Videos & Images
 
 - [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript and CSS resources from console, with one command
 
 - [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community
+
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) - an efficient blocker
 
 ### WINDOWS APPS & FEATURES
 
