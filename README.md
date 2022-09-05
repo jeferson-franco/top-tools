@@ -4,8 +4,6 @@
 
 - [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - generate a smart commit message based on file changes
 
-- [Better Comments](https://github.com/aaron-bond/better-comments) - create more human-friendly comments in your code
-
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 
 - [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - make indentation more readable
@@ -13,6 +11,8 @@
 - [Prettier](https://github.com/prettier/prettier-vscode) - enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary
 
 - [Quokka.js](https://quokkajs.com/docs/) - JavaScript and TypeScript playground in your editor
+
+- [Todo Tree](https://github.com/Gruntfuggly/todo-tree) - show TODO, FIXME, etc. comment tags in a tree view
 
 - [WakaTime](https://github.com/wakatime/vscode-wakatime) - metrics, insights, and time tracking automatically generated from your programming activity
 
