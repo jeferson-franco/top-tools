@@ -1,47 +1,55 @@
 # myBackpack
 
-### VSCODE EXTENSIONS
+## TOP10 VSCODE EXTENSIONS
 
-- [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - generate a smart commit message based on file changes
+- [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - Automatically generate commit messages based on the files changed.
 
-- [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - mark lines and jump to them
+- [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmark lines and jump to them.
 
-- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
+- [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 
-- [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - make indentation more readable
+- [GitHub Copilot](https://github.com/features/copilot) - AI-powered code completion.
 
-- [Prettier](https://github.com/prettier/prettier-vscode) - enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary
+- [GitLens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code.
 
-- [Quokka.js](https://quokkajs.com/docs/) - JavaScript and TypeScript playground in your editor
+- [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Makes indentation easier to read.
 
-- [Todo Tree](https://github.com/Gruntfuggly/todo-tree) - show TODO, FIXME, etc. comment tags in a tree view
+- [Prettier](https://github.com/prettier/prettier-vscode) - Code formatter.
 
-- [WakaTime](https://github.com/wakatime/vscode-wakatime) - metrics, insights, and time tracking automatically generated from your programming activity
+- [Quokka.js](https://quokkajs.com/docs/) - Live Scratchpad for JavaScript.
 
-### CHROME EXTENSIONS
+- [Todo Tree](https://github.com/Gruntfuggly/todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
 
-- [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Fastest Way to Copy Text from Videos & Images
+- [WakaTime](https://github.com/wakatime/vscode-wakatime) - Time tracking for VS Code.
 
-- [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript and CSS resources from console, with one command
+## TOP5 CHROME EXTENSIONS
 
-- [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community
+- [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Select, copy and paste text from any webpage.
 
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) - an efficient blocker
+- [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript modules into the console.
 
-### WINDOWS APPS & FEATURES
+- [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - Search for text on a webpage.
 
-- [7-Zip](https://www.7-zip.org/) - file archiver with a high compression ratio
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) - Block ads.
 
-- [f.lux](https://justgetflux.com/) - makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
+- [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Time tracking for Chrome.
 
-- [Git](https://git-scm.com/) - distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+## TOP9 WINDOWS APPS & FEATURES
 
-- [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine
+- [7-Zip](https://www.7-zip.org/) - File archiver.
 
-- [OBS Studio](https://obsproject.com/) - video recording and live streaming
+- [f.lux](https://justgetflux.com/) - Adjusts the color of your screen according to the time of day.
 
-- [Postman](https://www.postman.com/) - API platform for building and using APIs
+- [Git](https://git-scm.com/) - Version control system.
 
-- [PuTTY](https://www.putty.org/) - SSH and telnet client
+- [Lightshot](https://app.prntscr.com/en/index.html) - Screenshot tool.
 
-- [Shotcut](https://shotcut.org/) - cross-platform video editor
+- [Node.js](https://nodejs.org/en/) - JavaScript runtime.
+
+- [OBS Studio](https://obsproject.com/) - Screen recorder.
+
+- [Postman](https://www.postman.com/) - API development environment.
+
+- [PuTTY](https://www.putty.org/) - SSH and Telnet client.
+
+- [Shotcut](https://shotcut.org/) - Video editor.
