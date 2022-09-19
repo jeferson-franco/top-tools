@@ -1,6 +1,6 @@
 # topTools
 
-## TOP10 VSCODE EXTENSIONS
+## TOP VSCODE EXTENSIONS
 
 - [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - Automatically generate commit messages based on the files changed.
 
@@ -22,7 +22,7 @@
 
 - [WakaTime](https://github.com/wakatime/vscode-wakatime) - Time tracking for VS Code.
 
-## TOP5 CHROME EXTENSIONS
+## TOP CHROME EXTENSIONS
 
 - [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Select, copy and paste text from any webpage.
 
@@ -34,15 +34,13 @@
 
 - [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Time tracking for Chrome.
 
-## TOP9 WINDOWS APPS & FEATURES
+## TOP WINDOWS APPS & FEATURES
 
 - [7-Zip](https://www.7-zip.org/) - File archiver.
 
 - [f.lux](https://justgetflux.com/) - Adjusts the color of your screen according to the time of day.
 
 - [Git](https://git-scm.com/) - Version control system.
-
-- [Lightshot](https://app.prntscr.com/en/index.html) - Screenshot tool.
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime.
 
@@ -51,5 +49,7 @@
 - [Postman](https://www.postman.com/) - API development environment.
 
 - [PuTTY](https://www.putty.org/) - SSH and Telnet client.
+
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 
 - [Shotcut](https://shotcut.org/) - Video editor.
