@@ -10,8 +10,6 @@
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI-powered code completion.
 
-- [GitLens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code.
-
 - [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Makes indentation easier to read.
 
 - [Prettier](https://github.com/prettier/prettier-vscode) - Code formatter.
