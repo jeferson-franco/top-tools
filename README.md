@@ -4,6 +4,8 @@
 
 - [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - Automatically generate commit messages based on the files changed.
 
+- [Blackbox](https://www.useblackbox.io) - Code as fast as you think.
+
 - [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmark lines and jump to them.
 
 - [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates ESLint JavaScript into VS Code.
