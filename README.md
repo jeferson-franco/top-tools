@@ -4,10 +4,6 @@
 
 - [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - Automatically generate commit messages based on the files changed.
 
-- [Blackbox](https://www.useblackbox.io) - Code as fast as you think.
-
-- [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmark lines and jump to them.
-
 - [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI-powered code completion.
@@ -16,17 +12,11 @@
 
 - [Prettier](https://github.com/prettier/prettier-vscode) - Code formatter.
 
-- [Quokka.js](https://quokkajs.com/docs/) - Live Scratchpad for JavaScript.
-
-- [Todo Tree](https://github.com/Gruntfuggly/todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
+- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - Highlights TODOs, FIXMEs, and any keywords, annotations.
 
 - [WakaTime](https://github.com/wakatime/vscode-wakatime) - Time tracking for VS Code.
 
 ## TOP CHROME EXTENSIONS
-
-- [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Select, copy and paste text from any webpage.
-
-- [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript modules into the console.
 
 - [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - Search for text on a webpage.
 
@@ -40,7 +30,15 @@
 
 - [f.lux](https://justgetflux.com/) - Adjusts the color of your screen according to the time of day.
 
+- [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - PDF reader.
+
 - [Git](https://git-scm.com/) - Version control system.
+
+- [Google Chrome](https://www.google.com/chrome/?standalone=1) - Web browser.
+
+- [Google Drive](https://www.google.com/drive/download/) - Cloud storage.
+
+- [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) - Codecs and DirectShow filters.
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime.
 
