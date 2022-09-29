@@ -53,3 +53,37 @@
 -   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 
 -   [Shotcut](https://shotcut.org/) - Video editor.
+
+## TOP SETTINGS JSON
+
+```json
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true
+    },
+    "git.autofetch": true,
+    "eslint.format.enable": true,
+    "eslint.run": "onSave",
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 200,
+    "prettier.withNodeModules": true,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.wordWrapColumn": 200,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.renderWhitespace": "all",
+    "git.confirmSync": false
+}
+```
