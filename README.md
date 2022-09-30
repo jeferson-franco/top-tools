@@ -82,7 +82,6 @@
     "git.confirmSync": false, // Disable sync confirmation
     "git.enableSmartCommit": true, // Enable smart commit
     "github.copilot.enable": {
-        // Enable Copilot
         "*": true, // Enable Copilot for all languages
         "yaml": false, // Disable Copilot for YAML
         "plaintext": false, // Disable Copilot for plaintext
