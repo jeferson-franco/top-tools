@@ -58,32 +58,42 @@
 
 ```json
 {
-    "editor.inlineSuggest.enabled": true,
-    "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
-    "workbench.sideBar.location": "right",
+    "breadcrumbs.enabled": false, // Disable breadcrumbs
+    "editor.defaultFormatter": "esbenp.prettier-vscode", // Set default formatter to Prettier
+    "editor.formatOnSave": true, // Format on save
+    "editor.guides.bracketPairs": true, // Enable bracket pair guides
+    "editor.guides.bracketPairsHorizontal": true, // Enable horizontal bracket pair guides
+    "editor.inlineSuggest.enabled": true, // Enable inline suggestions
+    "editor.minimap.enabled": false, // Disable minimap
+    "editor.renderWhitespace": "all", // Render all whitespace characters
+    "editor.stickyScroll.enabled": true, // Enable sticky scrolling
+    "editor.wordWrap": "on", // Enable word wrap
+    "editor.wordWrapColumn": 200, // Set word wrap column to 200
+    "eslint.format.enable": true, // Enable ESLint formatting
+    "eslint.lintTask.enable": true, // Enable ESLint linting
+    "eslint.run": "onSave", // Run ESLint on save
+    "explorer.confirmDelete": false, // Disable delete confirmation
+    "explorer.confirmDragAndDrop": false, // Disable drag and drop confirmation
+    "files.eol": "\n", // Set line endings to LF
+    "files.insertFinalNewline": true, // Insert final newline
+    "files.trimFinalNewlines": true, // Trim final newlines
+    "files.trimTrailingWhitespace": true, // Trim trailing whitespace
+    "git.autofetch": true, // Enable auto-fetch
+    "git.confirmSync": false, // Disable sync confirmation
+    "git.enableSmartCommit": true, // Enable smart commit
     "github.copilot.enable": {
-        "*": true,
-        "yaml": false,
-        "plaintext": false,
-        "markdown": true
+        // Enable Copilot
+        "*": true, // Enable Copilot for all languages
+        "yaml": false, // Disable Copilot for YAML
+        "plaintext": false, // Disable Copilot for plaintext
+        "markdown": true // Enable Copilot for Markdown
     },
-    "git.autofetch": true,
-    "eslint.format.enable": true,
-    "eslint.run": "onSave",
-    "prettier.tabWidth": 4,
-    "prettier.printWidth": 200,
-    "prettier.withNodeModules": true,
-    "editor.wordWrap": "on",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.guides.bracketPairs": true,
-    "editor.guides.bracketPairsHorizontal": true,
-    "editor.wordWrapColumn": 200,
-    "editor.formatOnSave": true,
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true,
-    "editor.renderWhitespace": "all",
-    "git.confirmSync": false
+    "javascript.updateImportsOnFileMove.enabled": "always", // Enable automatic import updates
+    "prettier.printWidth": 200, // Set print width to 200
+    "prettier.singleQuote": true, // Use single quotes
+    "prettier.tabWidth": 4, // Set tab width to 4
+    "prettier.withNodeModules": true, // Enable Prettier for node_modules
+    "workbench.activityBar.visible": false, // Hide activity bar
+    "workbench.sideBar.location": "right" // Move sidebar to the right
 }
 ```
