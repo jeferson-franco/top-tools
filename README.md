@@ -50,8 +50,6 @@
 
 -   [PuTTY](https://www.putty.org/) - SSH and Telnet client.
 
--   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
-
 -   [Shotcut](https://shotcut.org/) - Video editor.
 
 ## TOP SETTINGS JSON
