@@ -4,6 +4,8 @@
 
 -   [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/blob/HEAD/docs/quickstart.md) - Automatically generate commit messages based on the files changed.
 
+-   [Better Comments](https://github.com/aaron-bond/better-comments) - Add colors to comments.
+
 -   [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 
 -   [GitHub Copilot](https://github.com/features/copilot) - AI-powered code completion.
