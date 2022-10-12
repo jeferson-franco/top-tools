@@ -68,7 +68,7 @@
     "editor.renderWhitespace": "all", // Render all whitespace characters
     "editor.stickyScroll.enabled": true, // Enable sticky scrolling
     "editor.wordWrap": "on", // Enable word wrap
-    "editor.wordWrapColumn": 200, // Set word wrap column to 200
+    "editor.wordWrapColumn": 160, // Set word wrap column to 160
     "eslint.format.enable": true, // Enable ESLint formatting
     "eslint.lintTask.enable": true, // Enable ESLint linting
     "eslint.run": "onSave", // Run ESLint on save
@@ -88,7 +88,7 @@
         "markdown": true // Enable Copilot for Markdown
     },
     "javascript.updateImportsOnFileMove.enabled": "always", // Enable automatic import updates
-    "prettier.printWidth": 200, // Set print width to 200
+    "prettier.printWidth": 160, // Set print width to 160
     "prettier.singleQuote": true, // Use single quotes
     "prettier.tabWidth": 4, // Set tab width to 4
     "prettier.withNodeModules": true, // Enable Prettier for node_modules
