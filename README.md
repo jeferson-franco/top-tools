@@ -28,7 +28,7 @@
 
 -   [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Time tracking for Chrome.
 
-## TOP WINDOWS APPS & FEATURES
+## TOP WINDOWS SOFTWARES
 
 -   [7-Zip](https://www.7-zip.org/) - File archiver.
 
@@ -44,6 +44,10 @@
 
 -   [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) - Codecs and DirectShow filters.
 
+-   [Microsoft 365](https://www.microsoft.com/en/microsoft-365/business/compare-all-microsoft-365-business-products?market=af) - Office suite.
+
+-   [Microsoft Teams](https://www.microsoft.com/en-ww/microsoft-teams/download-app) - Chat, calls, meetings, and more.
+
 -   [Node.js](https://nodejs.org/en/) - JavaScript runtime.
 
 -   [OBS Studio](https://obsproject.com/) - Screen recorder.
@@ -54,7 +58,7 @@
 
 -   [Shotcut](https://shotcut.org/) - Video editor.
 
-## TOP SETTINGS JSON
+## TOP JSON SETTINGS
 
 ```json
 {
