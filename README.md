@@ -32,8 +32,6 @@
 
 -   [7-Zip](https://www.7-zip.org/) - File archiver.
 
--   [f.lux](https://justgetflux.com/) - Adjusts the color of your screen according to the time of day.
-
 -   [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - PDF reader.
 
 -   [Git](https://git-scm.com/) - Version control system.
