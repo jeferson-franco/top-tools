@@ -6,15 +6,9 @@
 
 2.  [Codeium](https://www.codeium.com/) - The modern coding superpower: free AI code completion plugin for your favorite languages. Type less. Code more. Ship faster. // A superpotência de codificação moderna: plug-in gratuito de conclusão de código AI para seus idiomas favoritos. Digite menos. Codifique mais. Envie mais rápido.
 
-<<<<<<< HEAD
 3.  [Error Lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings. // Extensão do Visual Studio Code que aprimora a exibição de erros e avisos.
 
 4.  [ESLint](https://github.com/Microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode // Extensão do VSCode para integrar o eslint ao VSCode
-=======
--   [Codeium](https://www.codeium.com/) - AI-powered code completion.
-
--   [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates ESLint JavaScript into VS Code.
->>>>>>> cd1b4a156c5e038e6448e74a24fb331732097072
 
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
 
@@ -22,13 +16,7 @@
 
 7.  [SynthWave '84'](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
 
-<<<<<<< HEAD
 8.  [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code // Ícones para Visual Studio Code
-=======
--   [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code.
-
--   [WakaTime](https://github.com/wakatime/vscode-wakatime) - Time tracking for VS Code.
->>>>>>> cd1b4a156c5e038e6448e74a24fb331732097072
 
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
 
@@ -40,7 +28,6 @@
 
 3. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark theme for all your sites. Keep your eyes relaxed by using the dark theme in your daily browsing. // Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária.
 
-<<<<<<< HEAD
 4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora de código.
 
 5. [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Remove cookie warnings from almost all websites! // Remova os avisos de cookies de quase todos os sites!
@@ -51,8 +38,6 @@
 
 8. [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Automatic time tracking for Chrome. // Rastreamento de tempo automático para o Chrome.
 
-=======
->>>>>>> cd1b4a156c5e038e6448e74a24fb331732097072
 ## TOP JSON SETTINGS
 
 ```json
@@ -85,15 +70,10 @@
     "prettier.singleQuote": true, // Use single quotes // usar aspas simples
     "prettier.tabWidth": 4, // Set tab width to 4 // definir a largura da guia para 4
     "prettier.withNodeModules": true, // Enable Prettier for node_modules // habilitar Prettier para node_modules
-<<<<<<< HEAD
     "vsicons.dontShowNewVersionMessage": true, // Disable showing new version message // desabilitar mensagem de nova versão
     "window.menuBarVisibility": "compact", // Set menu bar visibility to compact // definir a visibilidade da barra de menus
     "workbench.colorTheme": "SynthWave '84", // Set color theme to SynthWave '84' // definir o tema de cores para SynthWave '84'
     "workbench.iconTheme": "vscode-icons", // Set icon theme to vscode-icons // definir o tema de icones para vscode-icons
     "workbench.sideBar.location": "right" // Set side bar location // definir a localização da barra de ferramentas
-=======
-    "workbench.sideBar.location": "right", // Set side bar location // definir a localização da barra de ferramentas
-    "workbench.iconTheme": "vscode-icons" // Set icon theme // definir o tema de icones
->>>>>>> cd1b4a156c5e038e6448e74a24fb331732097072
 }
 ```
