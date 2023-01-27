@@ -53,6 +53,8 @@ foo(
 
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
 
+![WakaTime](https://camo.githubusercontent.com/8c5c8124ec20095202d4d0125f1cac19865a0d26f920aa3ce6aac03d66239ca6/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67)
+
 ## TOP BROWSER
 
 1. [BitWarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - A secure and free password manager for all your devices. // Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos.
