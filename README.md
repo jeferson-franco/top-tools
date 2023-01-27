@@ -2,7 +2,7 @@
 
 Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço diário.
 
-## TOP VSCODE EXTENSIONS
+## TOP VSCODE
 
 1.  [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes // Uma extensão do VS Code para gerar uma mensagem de confirmação inteligente com base nas alterações do arquivo
 
@@ -26,7 +26,7 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
 
-## TOP BROWSER EXTENSIONS
+## TOP BROWSER
 
 1. [BitWarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - A secure and free password manager for all your devices. // Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos.
 
@@ -44,7 +44,7 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 8. [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Automatic time tracking for Chrome. // Rastreamento de tempo automático para o Chrome.
 
-## TOP JSON SETTINGS
+## TOP JSON (VSCODE)
 
 ```json
 {
