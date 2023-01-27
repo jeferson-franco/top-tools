@@ -6,7 +6,7 @@
 
 1.  [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes // Uma extensão do VS Code para gerar uma mensagem de confirmação inteligente com base nas alterações do arquivo
 
-![Codeium](https://www.codeium.com/static/demos/g_python_random_gen_with_logo.gif)
+![Codeium](https://www.codeium.com/static/demos/g_python_unit_test_with_logo.gif)
 
 2.  [Codeium](https://www.codeium.com/) - The modern coding superpower: free AI code completion plugin for your favorite languages. Type less. Code more. Ship faster. // A superpotência de codificação moderna: plug-in gratuito de conclusão de código AI para seus idiomas favoritos. Digite menos. Codifique mais. Envie mais rápido.
 
