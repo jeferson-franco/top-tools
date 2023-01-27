@@ -22,6 +22,8 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
 
+![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
+
 6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
 
 7.  [SynthWave '84'](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
