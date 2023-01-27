@@ -83,6 +83,10 @@ foo(
 
 2. [LanguageTool](https://microsoftedge.microsoft.com/addons/detail/corretor-gramatical-e-ort/hfjadhjooeceemgojogkhlppanjkbobc) - Check for spelling and grammar problems in your texts anywhere on the web. // Verifique problemas de ortografia e gramática em seus textos em qualquer lugar da web.
 
+![LanguageTool](https://store-images.s-microsoft.com/image/apps.20498.245cdfd7-6134-4107-adb5-e8f735c0ba1f.33a893bd-1f48-4656-8f14-14fee32312c4.1a2f38b9-4cd7-43df-8912-bbaba3a8ba58)
+
+---
+
 3. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark theme for all your sites. Keep your eyes relaxed by using the dark theme in your daily browsing. // Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária.
 
 4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora de código.
