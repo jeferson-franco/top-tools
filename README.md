@@ -71,9 +71,15 @@ foo(
 
 ![WakaTime](https://camo.githubusercontent.com/8c5c8124ec20095202d4d0125f1cac19865a0d26f920aa3ce6aac03d66239ca6/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67)
 
+---
+
 ## TOP BROWSER
 
 1. [BitWarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - A secure and free password manager for all your devices. // Um gerenciador de senhas seguro e gratuito para todos os seus dispositivos.
+
+![BitWarden](https://lh3.googleusercontent.com/b1WKpaJx8dyL_WCMNEIDdtTaxoHbVJ5HSJ7VoIJZ3EytAD2Mc2u6HlMO1ffLi7FpSWIPwpbmSbistJ1sMVQPBJplXVE=w640-h400-e365-rj-sc0x00ffffff)
+
+---
 
 2. [LanguageTool](https://microsoftedge.microsoft.com/addons/detail/corretor-gramatical-e-ort/hfjadhjooeceemgojogkhlppanjkbobc) - Check for spelling and grammar problems in your texts anywhere on the web. // Verifique problemas de ortografia e gramática em seus textos em qualquer lugar da web.
 
