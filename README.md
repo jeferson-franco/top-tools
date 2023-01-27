@@ -125,6 +125,8 @@ foo(
 
 ## TOP JSON (VSCODE)
 
+> Simply copy and paste it on your settings.json // Simplesmente copie e cole
+
 ```json
 {
     "breadcrumbs.enabled": false, // Disable breadcrumbs // desabilitar breadcrumbs
