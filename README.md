@@ -49,6 +49,8 @@ foo(
 
 8.  [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code // Ícones para Visual Studio Code
 
+![vscode-icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
 
 ## TOP BROWSER
