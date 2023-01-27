@@ -10,7 +10,7 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 2.  [Codeium](https://www.codeium.com/) - The modern coding superpower: free AI code completion plugin for your favorite languages. Type less. Code more. Ship faster. // A superpotência de codificação moderna: plug-in gratuito de conclusão de código AI para seus idiomas favoritos. Digite menos. Codifique mais. Envie mais rápido.
 
-![Codeium](https://www.codeium.com/static/demos/g_python_unit_test_with_logo.gif)
+![Codeium](https://www.codeium.com/static/demos/g_copilot_sentiment_with_logo.gif)
 
 3.  [Error Lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings. // Extensão do Visual Studio Code que aprimora a exibição de erros e avisos.
 
