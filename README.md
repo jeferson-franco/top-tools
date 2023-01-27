@@ -93,7 +93,7 @@ foo(
 
 ---
 
-4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora de código.
+4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora.
 
 ![Grepper](https://lh3.googleusercontent.com/f27vN7ukY9i2awlf6w8eO7KC7HPm-1CdARxrdba_TDfj62WGqvHBwILnNaxJccJImjG-RtD1d1AOCpxVaZNNcUC5=w640-h400-e365-rj-sc0x00ffffff)
 
