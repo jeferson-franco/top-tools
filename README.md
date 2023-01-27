@@ -113,7 +113,15 @@ foo(
 
 7. [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - Finally, an efficient blocker. With low CPU and memory usage. // Finalmente, um bloqueador eficiente. Com baixo uso de memória e CPU.
 
+![uBlock Origin](https://lh3.googleusercontent.com/67lmvCqkZrIqiHXFGuIZxXC9UDXDPxhpCF34KrK9S4MwewyEgVcVPlP0KiJJH6x8Bt83UdYPTZ4-XMEq2E6fijV67e4=w640-h400-e365-rj-sc0x00ffffff)
+
+---
+
 8. [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Automatic time tracking for Chrome. // Rastreamento de tempo automático para o Chrome.
+
+![WakaTime](https://lh3.googleusercontent.com/gUnyN9CDIKnmmZj7IYrg0ihZJRuebzlmbeejzdHqLJAF_yrn6dbut6GTGavUZbTEnjHW72neDew=w640-h400-e365-rj-sc0x00ffffff)
+
+---
 
 ## TOP JSON (VSCODE)
 
