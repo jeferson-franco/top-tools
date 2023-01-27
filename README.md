@@ -26,13 +26,13 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
 
-Input
+> Input
 
 ```
 foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());
 ```
 
-Output
+> Output
 
 ```
 foo(
