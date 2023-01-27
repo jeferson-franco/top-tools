@@ -45,6 +45,8 @@ foo(
 
 7.  [SynthWave '84'](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
 
+![SynthWave '84'](https://github.com/robb0wen/synthwave-vscode/blob/master/theme.jpg)
+
 8.  [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code // Ícones para Visual Studio Code
 
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
