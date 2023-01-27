@@ -89,6 +89,10 @@ foo(
 
 3. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark theme for all your sites. Keep your eyes relaxed by using the dark theme in your daily browsing. // Tema escuro para todos os sites. Mantenha os seus olhos relaxados usando o tema escuro em sua navegação diária.
 
+![Dark Reader](https://lh3.googleusercontent.com/E9Nv_5ofx3FqVyriC_uv1vVnTi_qD026pc8XBhMxMk0gFk7tEOoDQofP9UzOviC2UbrtWIQw1W8FdxEN4oooIBzu=w640-h400-e365-rj-sc0x00ffffff)
+
+---
+
 4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora de código.
 
 5. [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Remove cookie warnings from almost all websites! // Remova os avisos de cookies de quase todos os sites!
