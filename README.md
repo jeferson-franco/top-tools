@@ -14,6 +14,8 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 3.  [Error Lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings. // Extensão do Visual Studio Code que aprimora a exibição de erros e avisos.
 
+![Error Lens](https://raw.githubusercontent.com/usernamehw/vscode-error-lens/master/img/demo.png)
+
 4.  [ESLint](https://github.com/Microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode // Extensão do VSCode para integrar o eslint ao VSCode
 
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
