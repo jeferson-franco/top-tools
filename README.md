@@ -8,21 +8,31 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 ![Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/raw/master/docs/_media/sample-chore.png)
 
+---
+
 2.  [Codeium](https://www.codeium.com/) - The modern coding superpower: free AI code completion plugin for your favorite languages. Type less. Code more. Ship faster. // A superpotência de codificação moderna: plug-in gratuito de conclusão de código AI para seus idiomas favoritos. Digite menos. Codifique mais. Envie mais rápido.
 
 ![Codeium](https://www.codeium.com/static/demos/g_python_unit_test_with_logo.gif)
+
+---
 
 3.  [Error Lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings. // Extensão do Visual Studio Code que aprimora a exibição de erros e avisos.
 
 ![Error Lens](https://raw.githubusercontent.com/usernamehw/vscode-error-lens/master/img/demo.png)
 
+---
+
 4.  [ESLint](https://github.com/Microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode // Extensão do VSCode para integrar o eslint ao VSCode
 
 ![ESLint](https://eslint.org/assets/images/eslint-features-img-900w.webp)
 
+---
+
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
 
 ![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
+
+---
 
 6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
 
@@ -43,13 +53,19 @@ foo(
 );
 ```
 
+---
+
 7.  [SynthWave](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
 
 ![SynthWave](https://github.com/robb0wen/synthwave-vscode/blob/master/theme.jpg)
 
+---
+
 8.  [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code // Ícones para Visual Studio Code
 
 ![vscode-icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+
+---
 
 9.  [WakaTime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. // Plug-in do Visual Studio Code para rastreamento automático de tempo e métricas geradas a partir de sua atividade de programação.
 
