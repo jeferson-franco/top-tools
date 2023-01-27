@@ -43,9 +43,9 @@ foo(
 );
 ```
 
-7.  [SynthWave '84'](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
+7.  [SynthWave](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
 
-![SynthWave '84'](https://github.com/robb0wen/synthwave-vscode/blob/master/theme.jpg)
+![SynthWave](https://github.com/robb0wen/synthwave-vscode/blob/master/theme.jpg)
 
 8.  [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code // Ícones para Visual Studio Code
 
