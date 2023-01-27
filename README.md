@@ -101,6 +101,10 @@ foo(
 
 5. [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Remove cookie warnings from almost all websites! // Remova os avisos de cookies de quase todos os sites!
 
+![I don't care about cookies](https://lh3.googleusercontent.com/So5MmAfXZt8l-BtBzJe0kMKKjd5ZAttLQ2JlOTE2jLFapRcN5jbNzFuoDwxpqsz6CBGGsvZxN7z1S9RU5qJlhWHjT98=w640-h400-e365-rj-sc0x00ffffff)
+
+---
+
 6. [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. // O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram.
 
 7. [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - Finally, an efficient blocker. With low CPU and memory usage. // Finalmente, um bloqueador eficiente. Com baixo uso de memória e CPU.
