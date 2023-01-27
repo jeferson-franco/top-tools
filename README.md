@@ -95,6 +95,10 @@ foo(
 
 4. [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) - The Query & Answer System for the Coder Community // O sistema de perguntas e respostas para a comunidade desenvolvedora de código.
 
+![Grepper](https://lh3.googleusercontent.com/f27vN7ukY9i2awlf6w8eO7KC7HPm-1CdARxrdba_TDfj62WGqvHBwILnNaxJccJImjG-RtD1d1AOCpxVaZNNcUC5=w640-h400-e365-rj-sc0x00ffffff)
+
+---
+
 5. [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Remove cookie warnings from almost all websites! // Remova os avisos de cookies de quase todos os sites!
 
 6. [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. // O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram.
