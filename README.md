@@ -26,7 +26,22 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
 
-![Prettier](https://www.youtube.com/watch?v=hkfBvpEfWdA)
+Input
+
+```
+foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());
+```
+
+Output
+
+```
+foo(
+  reallyLongArg(),
+  omgSoManyParameters(),
+  IShouldRefactorThis(),
+  isThereSeriouslyAnotherOne()
+);
+```
 
 7.  [SynthWave '84'](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code // Tema de cores inspirado em Synthwave para VS Code
 
