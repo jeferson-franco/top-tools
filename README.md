@@ -18,6 +18,8 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 4.  [ESLint](https://github.com/Microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode // Extensão do VSCode para integrar o eslint ao VSCode
 
+![ESLint](https://eslint.org/assets/images/eslint-features-img-900w.webp)
+
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
 
 6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
