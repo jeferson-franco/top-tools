@@ -107,6 +107,10 @@ foo(
 
 6. [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. // O marcador JSON/JSONP mais bonito e personalizável que seus olhos já viram.
 
+![JSON Viewer](https://lh3.googleusercontent.com/7UIDfqnZBJjsNBoKLEndRZeVqdzMZsDeamq1U8GBicTmxsFM7npXjQvquL-pePLi3y5YCMlRm3bQ-jl7OxfROa0B=w640-h400-e365-rj-sc0x00ffffff)
+
+---
+
 7. [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - Finally, an efficient blocker. With low CPU and memory usage. // Finalmente, um bloqueador eficiente. Com baixo uso de memória e CPU.
 
 8. [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Automatic time tracking for Chrome. // Rastreamento de tempo automático para o Chrome.
