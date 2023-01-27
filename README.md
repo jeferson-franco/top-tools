@@ -1,6 +1,6 @@
 # topTools
 
-Here I share my everyday Swiss army knife.
+Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço diário.
 
 ## TOP VSCODE EXTENSIONS
 
