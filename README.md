@@ -22,36 +22,9 @@ Here I share my everyday Swiss army knife. // Segue lista de meu canivete suiço
 
 ---
 
-4.  [ESLint](https://github.com/Microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode // Extensão do VSCode para integrar o eslint ao VSCode
-
-![ESLint](https://eslint.org/assets/images/eslint-features-img-900w.webp)
-
----
-
 5.  [Git Graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. // Visualize um gráfico do Git do seu repositório no Visual Studio Code e execute facilmente ações do Git a partir do gráfico.
 
 ![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
-
----
-
-6.  [Prettier](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier // Extensão do Visual Studio Code para Prettier
-
-> Input
-
-```
-foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());
-```
-
-> Output
-
-```
-foo(
-  reallyLongArg(),
-  omgSoManyParameters(),
-  IShouldRefactorThis(),
-  isThereSeriouslyAnotherOne()
-);
-```
 
 ---
 
@@ -130,7 +103,6 @@ foo(
 ```json
 {
     "breadcrumbs.enabled": false, // Disable breadcrumbs // desabilitar breadcrumbs
-    "editor.defaultFormatter": "esbenp.prettier-vscode", // Set default formatter to Prettier // definir o formatador padrão para o Prettier
     "editor.formatOnSave": true, // Format on save // formatar ao salvar
     "editor.guides.bracketPairs": true, // Enable bracket pair guides // habilitar guias de pares de colchetes
     "editor.guides.bracketPairsHorizontal": true, // Enable horizontal bracket pair guides // habilitar guias de pares de colchetes horizontais
@@ -139,9 +111,6 @@ foo(
     "editor.stickyScroll.enabled": true, // Enable sticky scrolling // habilitar rolagem adesiva
     "editor.wordWrap": "on", // Enable word wrap // habilitar quebra de linha
     "editor.wordWrapColumn": 160, // Set word wrap column to 160 // definir a coluna de quebra de linha para 160
-    "eslint.format.enable": true, // Enable ESLint formatting // habilitar formatação do ESLint
-    "eslint.lintTask.enable": true, // Enable ESLint linting // habilitar linting do ESLint
-    "eslint.run": "onSave", // Run ESLint on save // executar o ESLint ao salvar
     "explorer.compactFolders": false, // Disable compact folders // desabilitar pastas compactas
     "explorer.confirmDelete": false, // Disable delete confirmation // desabilitar confirmação de exclusão
     "explorer.confirmDragAndDrop": false, // Disable drag and drop confirmation // desabilitar confirmação de arrastar e soltar
@@ -153,10 +122,6 @@ foo(
     "git.confirmSync": false, // Disable sync confirmation // desabilitar confirmação de sincronização
     "git.enableSmartCommit": true, // Enable smart commit // habilitar commit inteligente
     "javascript.updateImportsOnFileMove.enabled": "always", // Enable automatic import updates // habilitar atualizações de importação automática
-    "prettier.printWidth": 160, // Set print width to 160 // definir a largura de impressão para 160
-    "prettier.singleQuote": true, // Use single quotes // usar aspas simples
-    "prettier.tabWidth": 4, // Set tab width to 4 // definir a largura da guia para 4
-    "prettier.withNodeModules": true, // Enable Prettier for node_modules // habilitar Prettier para node_modules
     "vsicons.dontShowNewVersionMessage": true, // Disable showing new version message // desabilitar mensagem de nova versão
     "window.menuBarVisibility": "compact", // Set menu bar visibility to compact // definir a visibilidade da barra de menus
     "workbench.colorTheme": "SynthWave '84", // Set color theme to SynthWave '84' // definir o tema de cores para SynthWave '84'
