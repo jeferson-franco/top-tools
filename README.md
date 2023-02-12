@@ -209,6 +209,9 @@ Rastreamento de tempo automático para o Chrome.
 ```json
 {
     "breadcrumbs.enabled": false, // Disable breadcrumbs // desabilitar breadcrumbs
+    "CodeGPT.maxTokens": 2048,
+    "CodeGPT.query.language": "Portuguese",
+    "CodeGPT.temperature": 0.7,
     "editor.formatOnSave": true, // Format on save // formatar ao salvar
     "editor.guides.bracketPairs": true, // Enable bracket pair guides // habilitar guias de pares de colchetes
     "editor.guides.bracketPairsHorizontal": true, // Enable horizontal bracket pair guides // habilitar guias de pares de colchetes horizontais
@@ -230,8 +233,9 @@ Rastreamento de tempo automático para o Chrome.
     "javascript.updateImportsOnFileMove.enabled": "always", // Enable automatic import updates // habilitar atualizações de importação automática
     "vsicons.dontShowNewVersionMessage": true, // Disable showing new version message // desabilitar mensagem de nova versão
     "window.menuBarVisibility": "compact", // Set menu bar visibility to compact // definir a visibilidade da barra de menus
-    "workbench.colorTheme": "SynthWave '84", // Set color theme to SynthWave '84' // definir o tema de cores para SynthWave '84'
+    "workbench.colorTheme": "Dracula Soft", // Set color theme // definir o tema de cores
     "workbench.iconTheme": "vscode-icons", // Set icon theme to vscode-icons // definir o tema de icones para vscode-icons
-    "workbench.sideBar.location": "right" // Set side bar location // definir a localização da barra de ferramentas
+    "workbench.sideBar.location": "right", // Set side bar location // definir a localização da barra de ferramentas
+    "workbench.startupEditor": "none",
 }
 ```
