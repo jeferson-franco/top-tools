@@ -1,6 +1,6 @@
 # top-tools
 
-## TOP VSCODE
+## TOP VSCODE EXTENSIONS
 
 #### [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg)
 
@@ -92,7 +92,7 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
 
 ---
 
-## TOP BROWSER
+## TOP BROWSER EXTENSIONS
 
 #### [Auto Refresh](https://chromewebstore.google.com/detail/auto-refresh-plus-page-mo/hgeljhfekpckiiplhkigfehkdpldcggm)
 
@@ -130,13 +130,13 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
 
 ---
 
-#### [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) -
+#### [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
 ![uBlock Origin](https://lh3.googleusercontent.com/67lmvCqkZrIqiHXFGuIZxXC9UDXDPxhpCF34KrK9S4MwewyEgVcVPlP0KiJJH6x8Bt83UdYPTZ4-XMEq2E6fijV67e4=w640-h400-e365-rj-sc0x00ffffff)
 
 ---
 
-#### [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) -
+#### [WakaTime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi)
 
 ![WakaTime](https://lh3.googleusercontent.com/gUnyN9CDIKnmmZj7IYrg0ihZJRuebzlmbeejzdHqLJAF_yrn6dbut6GTGavUZbTEnjHW72neDew=w640-h400-e365-rj-sc0x00ffffff)
 
@@ -284,6 +284,6 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
 
 ---
 
-## TOP FAVORITES
+## TOP FAVORITES LINKS
 
 [fav.html](/src/fav.html)
