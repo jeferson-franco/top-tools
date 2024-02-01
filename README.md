@@ -147,12 +147,37 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
 ```json
 {
   /**
+   * Rocketseat Defaults
+   * https://www.youtube.com/watch?v=TW3KoPkuWEA
+   **/
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [80, 120],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": true,
+  "workbench.activityBar.location": "top",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock*, yarn*, pnpm-lock*, vite*, tsconfig*, prettier*, .eslint*",
+    "tailwind.config*": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+
+  /**
    * Origamid Defaults
    * https://www.origamid.com/slide/react-completo/#/0102-ferramentas/4
    **/
-  "editor.fontFamily": "IBM Plex Mono, Monaco, Courier New, monospace",
-  "editor.fontSize": 16,
-  "editor.lineHeight": 28,
   "editor.tabSize": 2,
   "editor.tabCompletion": "on",
   "editor.wordWrap": "on",
@@ -172,7 +197,6 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
   "telemetry.telemetryLevel": "all",
   "color-highlight.markerType": "dot-before",
   "editor.renderWhitespace": "selection",
-  "workbench.statusBar.visible": true,
   "prettier.trailingComma": "all",
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -181,10 +205,8 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "explorer.sortOrder": "default",
-  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "window.title": "${rootName}",
   "window.newWindowDimensions": "offset",
-  // "workbench.colorTheme": "Origamid Next",
-  // "workbench.iconTheme": "origamid-next-icons",
   "html.format.wrapAttributes": "auto",
   "html.format.wrapLineLength": 0,
   "[html]": {
@@ -239,7 +261,6 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
   },
   "editor.minimap.showSlider": "always",
   "git.confirmSync": false,
-  "workbench.startupEditor": "none",
   "extensions.ignoreRecommendations": true,
   "explorer.confirmDelete": false,
   "files.eol": "\n",
@@ -271,14 +292,16 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
   "formatFiles.runOrganizeImports": true,
   "editor.linkedEditing": true,
   "diffEditor.ignoreTrimWhitespace": false,
-  "workbench.activityBar.location": "top",
   "window.zoomLevel": 2,
   "codeium.enableConfig": {
     "*": true,
     "markdown": true
   },
   "remote.autoForwardPortsSource": "hybrid",
-  "workbench.iconTheme": "vs-minimal"
+  "workbench.iconTheme": "vs-minimal",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "redhat.telemetry.enabled": true
 }
 ```
 
