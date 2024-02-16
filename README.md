@@ -2,6 +2,12 @@
 
 ## TOP VSCODE EXTENSIONS
 
+#### [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag)
+
+![Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag/blob/master/images/usage.gif)
+
+---
+
 #### [Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg)
 
 ![Auto Commit Message](https://github.com/MichaelCurrin/auto-commit-msg/raw/master/docs/_media/sample-chore.png)
@@ -11,6 +17,12 @@
 #### [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
 
 ![Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif)
+
+---
+
+#### [Black Formatter](https://github.com/microsoft/vscode-black-formatter)
+
+Formatting support for Python files using the Black formatter.
 
 ---
 
@@ -44,9 +56,27 @@ VS Code extension to format all files in workspace
 
 ---
 
+#### [Git Graph](https://github.com/mhutchie/vscode-git-graph)
+
+![Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
+
+---
+
 #### [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow)
 
 ![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
+---
+
+#### [isort](https://github.com/microsoft/vscode-isort)
+
+![isort](https://github.com/microsoft/vscode-isort/blob/main/images/vscode-isort.gif)
+
+---
+
+#### [Kubernetes](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools)
+
+Develop, deploy and debug Kubernetes applications
 
 ---
 
@@ -74,9 +104,45 @@ Visual Studio Code extension for Prettier
 
 ---
 
+#### [Pylance](https://github.com/microsoft/pylance-release)
+
+![Pylance](https://github.com/microsoft/pylance-release/blob/main/images/all-features.gif)
+
+---
+
+#### [Python](https://github.com/Microsoft/vscode-python)
+
+IntelliSense (Pylance), Linting, Debugging (Python Debugger), code formatting, refactoring, unit tests, and more.
+
+---
+
+#### [Python Debugger](https://github.com/microsoft/vscode-python-debugger)
+
+Python Debugger extension using debugpy.
+
+---
+
+#### [Python Indent](https://github.com/kbrose/vsc-python-indent)
+
+![Python Indent](https://github.com/kbrose/vsc-python-indent/blob/master/static/demo.gif)
+
+---
+
 #### [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 ![Quokka.js](https://quokkajs.com/assets/img/main-video.gif)
+
+---
+
+#### [Smart Column Indenter](https://github.com/lmcarreiro/vscode-smart-column-indenter)
+
+![Smart Column Indenter](https://github.com/lmcarreiro/vscode-smart-column-indenter/blob/master/demo.gif)
+
+---
+
+#### [SVG](https://github.com/lishu/vscode-svg2)
+
+![SVG](https://github.com/lishu/vscode-svg2/blob/master/images/f2s.gif)
 
 ---
 
@@ -89,6 +155,12 @@ Visual Studio Code extension for Prettier
 #### [WSL](https://github.com/Microsoft/vscode-remote-release)
 
 Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+
+---
+
+#### [YAML](https://github.com/redhat-developer/vscode-yaml)
+
+![YAML](https://raw.githubusercontent.com/redhat-developer/vscode-yaml/main/images/demo.gif)
 
 ---
 
@@ -172,7 +244,7 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
     ".env": ".env*"
   },
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
 
   /**
    * Origamid Defaults
@@ -301,7 +373,16 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
   "workbench.iconTheme": "vs-minimal",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "redhat.telemetry.enabled": true
+  "redhat.telemetry.enabled": true,
+  "git-graph.date.format": "Relative",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "isort.args": ["--profile", "black"]
 }
 ```
 
