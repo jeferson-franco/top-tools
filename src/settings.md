@@ -2,138 +2,157 @@
 
 ```json
 {
-  /**
-   * Rocketseat Defaults
-   * https://www.youtube.com/watch?v=TW3KoPkuWEA
-   **/
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.8,
-  "editor.rulers": [80, 120],
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.renderLineHighlight": "gutter",
-  "editor.fontLigatures": true,
-  "workbench.editor.labelFormat": "short",
-  "explorer.compactFolders": false,
-  "editor.semanticHighlighting.enabled": false,
-  "breadcrumbs.enabled": true,
-  "workbench.activityBar.location": "top",
-  "editor.minimap.enabled": false,
-  "workbench.statusBar.visible": true,
-  "explorer.fileNesting.enabled": true,
-  "explorer.fileNesting.patterns": {
-    "package.json": "package-lock*, yarn*, pnpm-lock*, vite*, tsconfig*, prettier*, .eslint*",
-    "tailwind.config*": "tailwind.config*, postcss.config*",
-    ".env.local": ".env*",
-    ".env": ".env*"
-  },
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "MesloLGS NF",
+  // Editor settings
+  "editor.fontFamily": "JetBrains Mono", // sets the font
+  "editor.fontSize": 14, // sets the font size
+  "editor.lineHeight": 1.8, // sets the line height
+  "editor.rulers": [80, 120], // sets vertical rulers at columns 80 and 120
+  "editor.renderLineHighlight": "gutter", // highlights the line in the gutter
+  "editor.fontLigatures": true, // enables font ligatures
+  "editor.semanticHighlighting.enabled": false, // disables semantic highlighting
+  "editor.tabSize": 2, // sets the tab size to 2 spaces
+  "editor.tabCompletion": "on", // enables tab completion
+  "editor.wordWrap": "on", // enables word wrap
+  "editor.formatOnSave": true, // formats the file on save
+  "editor.colorDecorators": false, // disables inline color decorators
+  "editor.autoClosingBrackets": "always", // auto closes brackets
+  "editor.autoClosingQuotes": "always", // auto closes quotes
+  "editor.minimap.renderCharacters": false, // disables rendering characters in the minimap
+  "editor.renderWhitespace": "selection", // renders whitespace only on selected text
+  "editor.bracketPairColorization.enabled": false, // disables bracket pair colorization
+  "editor.copyWithSyntaxHighlighting": false, // copies without syntax highlighting
+  "editor.emptySelectionClipboard": false, // disables copying the whole line when nothing is selected
+  "editor.minimap.showSlider": "always", // shows the minimap slider
+  "editor.multiCursorModifier": "ctrlCmd", // sets the multi-cursor modifier to ctrl
+  "editor.snippetSuggestions": "top", // shows snippet suggestions on top
+  "editor.detectIndentation": false, // disables detecting indentation
+  "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?", // includes "-" in word selection
+  "editor.linkedEditing": true, // enables linked editing
 
-  /**
-   * Origamid Defaults
-   * https://www.origamid.com/slide/react-completo/#/0102-ferramentas/4
-   **/
-  "editor.tabSize": 2,
-  "editor.tabCompletion": "on",
-  "editor.wordWrap": "on",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "liveServer.settings.donotVerifyTags": true,
-  "explorer.confirmDragAndDrop": false,
-  "editor.formatOnSave": true,
-  "html.autoClosingTags": false,
-  "editor.colorDecorators": false,
-  "editor.autoClosingBrackets": "always",
-  "editor.autoClosingQuotes": "always",
-  "prettier.singleQuote": true,
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
-  "editor.minimap.renderCharacters": false,
-  "telemetry.telemetryLevel": "all",
-  "color-highlight.markerType": "dot-before",
-  "editor.renderWhitespace": "selection",
-  "prettier.trailingComma": "all",
+  // Prettier settings
+  "prettier.singleQuote": true, // uses single quotes
+  "prettier.trailingComma": "all", // adds trailing commas
+
+  // Prettier DefaultFormatter settings
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "explorer.sortOrder": "default",
-  "window.title": "${rootName}",
-  "window.newWindowDimensions": "offset",
-  "html.format.wrapAttributes": "auto",
-  "html.format.wrapLineLength": 0,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.bracketPairColorization.enabled": false,
-
-  /**
-   * Better Defaults
-   **/
-  "editor.copyWithSyntaxHighlighting": false,
-  "editor.emptySelectionClipboard": false,
-  "workbench.editor.enablePreview": false,
-  "editor.multiCursorModifier": "ctrlCmd",
-  "files.trimTrailingWhitespace": true,
-  "diffEditor.renderSideBySide": false,
-  "editor.snippetSuggestions": "top",
-  "editor.detectIndentation": false,
-  "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true,
-
-  /**
-   * Find
-   **/
-  "search.useIgnoreFiles": false,
-  "search.exclude": {
-    "**/node_modules": true,
-    "**/package-lock.json": true
-  },
-
-  /**
-   * Code
-   **/
-  // Include "-" in word selection.
-  "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
-
-  /**
-   * Custom
-   **/
-  "workbench.sideBar.location": "right",
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "codeium.aggressiveShutdown": true,
-  "codeium.enableCodeLens": false,
-  "codeium.enableSearch": true,
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.minimap.showSlider": "always",
-  "git.confirmSync": false,
-  "extensions.ignoreRecommendations": true,
-  "explorer.confirmDelete": false,
-  "files.eol": "\n",
-  "workbench.tree.indent": 14,
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "git.autofetch": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "git.enableSmartCommit": true,
+
+  // RedHat DefaultFormatter settings
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+
+  // Black DefaultFormatter settings
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true, // formats the file on save
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit" // organizes imports on save
+    }
+  },
+
+  // Workbench settings
+  "workbench.startupEditor": "newUntitledFile", // opens a new untitled file on startup
+  "workbench.editor.labelFormat": "short", // sets the editor label format to short
+  "workbench.activityBar.location": "top", // sets the activity bar to the top
+  "workbench.statusBar.visible": true, // shows the status bar
+  "workbench.editor.enablePreview": false, // disables preview editors
+  "workbench.sideBar.location": "right", // sets the sidebar to the right
+  "workbench.tree.indent": 14, // sets the sidebar indentation to 14px
+  "workbench.iconTheme": "vs-minimal", // sets the icon theme
+  "workbench.layoutControl.enabled": false, // disables layout control
+
+  // Explorer settings
+  "explorer.compactFolders": false, // expands folders in the explorer
+  "explorer.fileNesting.enabled": true, // enables file nesting
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock*, yarn*, pnpm-lock*, vite*, tsconfig*, prettier*, .eslint*",
+    "tailwind.config*": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "explorer.confirmDragAndDrop": false, // disables drag and drop confirmation
+  "explorer.confirmDelete": false, // disables delete confirmation
+  "explorer.sortOrder": "default", // sets the sort order to default
+
+  // Terminal settings
+  "terminal.integrated.fontSize": 14, // sets the terminal font size
+  "terminal.integrated.fontFamily": "MesloLGS NF", // sets the terminal font
+  "terminal.integrated.defaultProfile.windows": "Command Prompt", // sets the default terminal to Command Prompt
+
+  // LiveServer settings
+  "liveServer.settings.donotShowInfoMsg": true, // disables info messages
+  "liveServer.settings.donotVerifyTags": true, // disables tag verification
+
+  // HTML settings
+  "html.autoClosingTags": false, // disables auto closing tags
+  "html.format.wrapAttributes": "auto", // wraps attributes automatically
+  "html.format.wrapLineLength": 0, // wraps lines at 0 characters
+
+  // Files settings
+  "files.associations": {
+    "*.js": "javascriptreact" // sets the file association for .js files to javascriptreact
+  },
+  "files.trimTrailingWhitespace": true, // trims trailing whitespace
+  "files.insertFinalNewline": true, // inserts a final newline
+  "files.trimFinalNewlines": true, // trims final newlines
+  "files.eol": "\n", // sets the end of line character to LF
+  "telemetry.telemetryLevel": "all", // enables telemetry
+  "color-highlight.markerType": "dot-before", // sets the marker type to dot before
+
+  // Window settings
+  "window.title": "${rootName}", // sets the window title to the root folder name
+  "window.newWindowDimensions": "offset", // opens new windows at an offset
+  "window.zoomLevel": 2, // sets the window zoom level to 2
+  "window.commandCenter": false, // disables the command center
+
+  // DiffEditor settings
+  "diffEditor.renderSideBySide": false, // renders the diff editor side by side
+  "diffEditor.ignoreTrimWhitespace": true, // ignores trim whitespace in the diff editor
+
+  // Search settings
+  "search.useIgnoreFiles": false, // uses the .gitignore file
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/package-lock.json": true,
+    "**/yarn.lock": true,
+    "**/.eslintcache": true
+  },
+
+  // Git settings
+  "git.confirmSync": false, // disables sync confirmation
+  "git.autofetch": true, // enables autofetch
+  "git.enableSmartCommit": true, // enables smart commit
+  "git.ignoreRebaseWarning": true, // ignores rebase warning
+
+  // Other settings
+  "breadcrumbs.enabled": true, // enables breadcrumbs
+  "extensions.ignoreRecommendations": true, // ignores extension recommendations
   "formatFiles.excludedFolders": [
     "node_modules",
     ".vscode",
@@ -145,28 +164,14 @@
     "setup.sh",
     "/ ^.*(?<!.min)(.(css|js))$ / g"
   ],
-  "formatFiles.runOrganizeImports": true,
-  "editor.linkedEditing": true,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "window.zoomLevel": 2,
-  "codeium.enableConfig": {
-    "*": true,
-    "markdown": true
-  },
-  "remote.autoForwardPortsSource": "hybrid",
-  "workbench.iconTheme": "vs-minimal",
-  "window.commandCenter": false,
-  "workbench.layoutControl.enabled": false,
-  "redhat.telemetry.enabled": true,
-  "git-graph.date.format": "Relative",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-      "source.organizeImports": "explicit"
-    }
-  },
-  "isort.args": ["--profile", "black"]
+  "formatFiles.runOrganizeImports": true, // runs organize imports
+  "git-graph.date.format": "ISO Date & Time", // sets the date format to ISO Date & Time
+  "github.copilot.chat.welcomeMessage": "never", // disables the welcome message
+  "isort.args": ["--profile", "black"], // sets the isort profile to black
+  "javascript.updateImportsOnFileMove.enabled": "always", // updates imports on file move
+  "php.validate.executablePath": "C:/xampp/php/php.exe", // sets the PHP executable path
+  "redhat.telemetry.enabled": true, // enables telemetry
+  "remote.autoForwardPortsSource": "hybrid" // sets the auto forward ports source to hybrid
 }
 ```
 
