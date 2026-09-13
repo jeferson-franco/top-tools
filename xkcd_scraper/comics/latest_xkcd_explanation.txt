@@ -1,10 +1,14 @@
-This is one of51 incomplete explanations:This page was created — OH MY SCALE THAT'S A BIG RAIL. Don't remove this notice too soon. You can help byediting the explanation!
+This is one of51 incomplete explanations:This page was created by a 87:1 scale model editor. Don't remove this notice too soon. You can help byediting the explanation!
 
-This comic references the HO (or H0) scale of 1:87, commonly used for model train sets. Due to a typo, the ratio values were switched by accident, becoming 87:1 meaning the trains, tracks, and all other pieces are 87x the size they would be in real life, resulting in a humorously and improbably large model. To reflect this, or perhaps as part of a similar error, it therefore has been nominally called "OH Scale". "Oh" is also a usual spelling for a common spontaneous expression of surprise, such as might be emitted by someone seeing such a scale model for the first time.
+This comic references theHO(or H0) scale of 1:87, commonly used for model train sets. Due to a typo, the ratio values were switched by accident, becoming 87:1 meaning the trains, tracks, and all other pieces are 87x the size they would be in real life, resulting in a humorously and improbably large model. To reflect this, or perhaps as part of a similar error, it therefore has been nominally called "OH Scale". "Oh" is also a usual spelling for a common spontaneous expression of surprise, such as might be emitted by someone seeing such a scale model for the first time.
+
+Creating a model at 87 times the real-life dimensions means that you are dealing with tracks and trains the size of skyscrapers. A 'model' train set of this size wouldn't fit in a typical yard and would need planning permission in most jurisdictions. This contrasts with the HO scale trains the protagonist intended to build, which likely would have easily fit in one of the rooms in their house.
 
 HO scale is 'half of O' scale.O (or, originally 'zero') scaletends towards a 1:48 scale, depending upon the vendor, where 1/4 inch on the model equals 1 foot in real life. HO scale models are therefore around half the size of O scale models.
 
 The title text further expands the joke, saying as the model rail is so large he had to build a regular sized train within it to get to far portions of the project.
 
 Model rail and its size constraints have been covered previously in878: Model Rail.
+
+Furthermore "OH Scale" could be a word play onBig O notation, which is a mathematical short hand that describes orders of magnitude. That has been featured previously in399: Travelling Salesman Problemand2939: Complexity Analysis.
 
